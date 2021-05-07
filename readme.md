@@ -7,3 +7,4 @@ Steps to follow...
 4. enter pincode
 5. enter date (optional)
 
+![image](https://user-images.githubusercontent.com/26418439/116881657-28a9cb00-ac41-11eb-81a1-059e777ae3b3.png)
